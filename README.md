@@ -29,8 +29,10 @@
   <p>
     📫 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. I'm always open to connecting with fellow developers and enthusiasts. You can contact me via email or connect with me on LinkedIn.
   </p>
+  <ul>
   <li>syedshahhussain19288@gmail.com</li>
     <li>https://www.linkedin.com/in/syed-shah-hussain-badshah-37391b219/</li>
+  </ul>
   
   
   <p>Let's learn, build, and make a positive impact together!</p>
