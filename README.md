@@ -3,6 +3,7 @@
   <p>
     👋 Hello, I'm <strong>SYED SHAH HUSSAIN</strong>!
   </p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
   <p>
     🎓 Currently a 4th-semester student pursuing a Bachelor's degree in Software Engineering. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
   </p>
