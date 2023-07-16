@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2599&pause=503&color=FF3A12&background=4EFF4100&width=435&lines=Its+Me+SYED+SHAH+HUSSAIN+BADSHAH;Future+Software+Engineer;Junior+MERN+Stack+Developer;CyberSecurity+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2599&pause=503&color=FF3A12&background=4EFF4100&width=435&lines=Its+Me+SYED+SHAH+HUSSAIN;Future+Software+Engineer;Junior+MERN+Stack+Developer;CyberSecurity+Enthusiast" alt="Typing SVG" /></a>
   <h1>About Me</h1>
   <p>
-    👋 Hello, I'm <strong>SYED SHAH HUSSAIN</strong>!
+    👋 Hello, I'm <strong>SYED SHAH HUSSAIN BADSHAH</strong>!
   </p>
   <p>
     🎓 Currently a 4th-semester student pursuing a Bachelor's degree in Software Engineering. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
