@@ -30,7 +30,7 @@
 
 
 <details> 
-  <summary><h2>📊Github Stats and Activity</h2></summary>
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
