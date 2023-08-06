@@ -29,7 +29,7 @@
 
 
 
-<details> 
+
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -41,7 +41,7 @@
     </a>
     
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -58,7 +58,7 @@
  
 
 
-</details>
+
 
 
 
