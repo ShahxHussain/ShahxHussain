@@ -94,5 +94,5 @@ Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
     <summary>🤡 More Advanced Activity Graph</summary>
     <br />
     <h2 align="center">🤡 More Advanced Activity Graph</h2>
-    <img src="https://raw.githubusercontent.com/shahxhussain/Zaid-maker/master/profile-3d-contrib/profile-night-green.svg" />
+    <img src="https://raw.githubusercontent.com/shahxhussain/shahxhussain/master/profile-3d-contrib/profile-night-green.svg" />
 </details>
