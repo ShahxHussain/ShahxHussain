@@ -27,7 +27,8 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 <div align="center">
-    <a href="https://www.devmirza.ml">
+<!-- website link -->
+    <a href=""> 
         <img src="https://github.com/shahxhussain/shahxhussain/blob/output/github-snake-dark.svg" alt="snake" />
     </a>
 </div>
