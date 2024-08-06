@@ -33,10 +33,8 @@
     </a>
 </div>
 
-
-    <summary>💌 Contact Me</summary>
-    <div>
-        <samp>
+<div>
+  <samp>
             <h2 align="center">😎 you can reach me at:</h2>
             <p align="center">
                 <a href="" target="blank">
