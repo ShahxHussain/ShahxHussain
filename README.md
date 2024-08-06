@@ -78,3 +78,17 @@
     <h2 align="center">🤡 More Advanced Activity Graph</h2>
     <img src="https://raw.githubusercontent.com/shahxhussain/shahxhussain/master/profile-3d-contrib/profile-night-green.svg" />
 </details>
+
+### :bar_chart: Coding time in the last month
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript    17 hrs 46 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.40 %
+JavaScript    3 hrs 36 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.90 %
+JSON          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.09 %
+HTML          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.09 %
+Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.93 %
+```
+
+<!--END_SECTION:waka-->
