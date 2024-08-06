@@ -22,7 +22,7 @@
   </p>
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
-[![wakatime](https://wakatime.com/badge/user/d594dc95-07a5-471b-a3e1-8d5fea65bed3.svg)](https://wakatime.com/@d594dc95-07a5-471b-a3e1-8d5fea65bed3)
+
 
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
@@ -34,21 +34,6 @@
 </div>
 
 
-### :bar_chart: Coding time in the last month
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript    17 hrs 46 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.40 %
-JavaScript    3 hrs 36 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.90 %
-JSON          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.09 %
-HTML          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.09 %
-Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.93 %
-```
-
-<!--END_SECTION:waka-->
-
-<details>
     <summary>💌 Contact Me</summary>
     <div>
         <samp>
@@ -60,7 +45,6 @@ Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
             </p>
         </samp>
     </div>
-</details>
 
 <details>
   <summary>💻 GitHub Profile Stats</summary>
