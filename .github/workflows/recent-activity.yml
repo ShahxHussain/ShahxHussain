@@ -18,6 +18,10 @@ jobs:
       - name: GitHub Recent Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Ensure this secret exists and is valid
         with:
-            MAX_LINES: 10
+          USERNAME: shahxhussain  # Make sure the action expects this input
+          MAX_LINES: 10
+
+      - name: Debug Output
+        run: echo "Workflow completed. Check the logs for details."
