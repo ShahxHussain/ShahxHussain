@@ -91,4 +91,5 @@ Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Profile](https://github.com/ShahxHussain/ShahxHussain/releases/tag/Profile) in [ShahxHussain/ShahxHussain](https://github.com/ShahxHussain/ShahxHussain)
 <!--END_SECTION:activity-->
