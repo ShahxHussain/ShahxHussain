@@ -89,4 +89,5 @@ HTML          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.93 %
 <!--END_SECTION:waka-->
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Profile](https://github.com/ShahxHussain/ShahxHussain/releases/tag/Profile) in [ShahxHussain/ShahxHussain](https://github.com/ShahxHussain/ShahxHussain)
 <!--END_SECTION:activity-->
