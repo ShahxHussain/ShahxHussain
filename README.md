@@ -33,6 +33,11 @@
     </a>
 </div>
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div>
   <samp>
             <h2 align="center">😎 you can reach me at:</h2>
@@ -88,6 +93,4 @@ JSON          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 HTML          1 hr 19 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.09 %
 Other         45 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.93 %
 <!--END_SECTION:waka-->
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Profile](https://github.com/ShahxHussain/ShahxHussain/releases/tag/Profile) in [ShahxHussain/ShahxHussain](https://github.com/ShahxHussain/ShahxHussain)
-<!--END_SECTION:activity-->
+
