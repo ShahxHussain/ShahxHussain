@@ -51,10 +51,7 @@
             </p>
         </samp>
     </div>
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-    <div>
+<div>
         <h2 align="center">📊 Github Stats</h2>
         <br />
         <p align="center">
@@ -69,21 +66,15 @@
             </a>
         </p>
     </div>
-</details>
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <br/>
-  <h2 align="center">👇 latest contribution 👇</h2>
-    <a href="https://github.com/shahxhussain/"><img alt="ShahxHussain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shahxhussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</details>
+<br>
+<h2 align="center">👇 latest contribution 👇</h2>
+<a href="https://github.com/shahxhussain/"><img alt="ShahxHussain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shahxhussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<details>
-    <summary>🤡 More Advanced Activity Graph</summary>
-    <br />
-    <h2 align="center">🤡 More Advanced Activity Graph</h2>
-    <img src="https://raw.githubusercontent.com/shahxhussain/shahxhussain/master/profile-3d-contrib/profile-night-green.svg" />
-</details>
+
+<br>
+<h2 align="center">🤡 More Advanced Activity Graph</h2>
+<img src="https://raw.githubusercontent.com/shahxhussain/shahxhussain/master/profile-3d-contrib/profile-night-green.svg" />
 
 ### :bar_chart: Coding time in the last month
 
