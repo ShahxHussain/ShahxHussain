@@ -67,6 +67,10 @@
         </p>
     </div>
 
+
+
+![](https://leetcard.jacoblin.cool/Syed-Shah-Hussain?ext=heatmap)
+
 <br>
 <h2 align="center">👇 latest contribution 👇</h2>
 <a href="https://github.com/shahxhussain/"><img alt="ShahxHussain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shahxhussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
