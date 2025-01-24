@@ -9,7 +9,7 @@
     👋 Hello, I'm <strong>SYED SHAH HUSSAIN BADSHAH</strong>!
   </p>
   <p>
-    🎓 Currently a 6th-semester student pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <strong>COMSATS University Islamabad, Abbottabad Campus</strong>. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
+    🎓 Currently a Final year student pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <strong>COMSATS University Islamabad, Abbottabad Campus</strong>. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
   </p>
   <p>
     🚀 I consider myself a beginner-level MERN stack developer, with hands-on experience in building web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy working with these technologies and continuously expanding my knowledge in web development.
