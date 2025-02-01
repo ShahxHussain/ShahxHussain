@@ -38,7 +38,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Profile](https://github.com/ShahxHussain/ShahxHussain/releases/tag/Profile) in [ShahxHussain/ShahxHussain](https://github.com/ShahxHussain/ShahxHussain)
+1. ❗ Opened issue [#6](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/6) in [abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon)
 <!--END_SECTION:activity-->
 
 <div>
