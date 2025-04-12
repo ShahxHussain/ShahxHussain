@@ -38,7 +38,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/6) in [abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon)
+1. 🚀 Published release [v0.2](https://github.com/ShahxHussain/LanguageHIIT/releases/tag/v0.2) in [ShahxHussain/LanguageHIIT](https://github.com/ShahxHussain/LanguageHIIT)
 <!--END_SECTION:activity-->
 
 <div>
