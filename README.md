@@ -4,22 +4,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3599&pause=703&color=FF3A12&background=4EFF4100&width=600&lines=It's+Me+-+SYED+SHAH+HUSSAIN;Software+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" /></a>
   </p>
   
-  <h1>About Me</h1>
-  <p>
-    👋 Hello, I'm <strong>SYED SHAH HUSSAIN BADSHAH</strong>!
-  </p>
-  <p>
-    🎓 Currently a Final year student pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <strong>COMSATS University Islamabad, Abbottabad Campus</strong>. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
-  </p>
-  <p>
-    🚀 I consider myself a beginner-level MERN stack developer, with hands-on experience in building web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy working with these technologies and continuously expanding my knowledge in web development.
-  </p>
-  <p>
-    🔒 Additionally, I have a keen interest in cybersecurity. I find the world of cybersecurity fascinating, and I have delved into various topics such as network security, ethical hacking, and data privacy. I believe that understanding cybersecurity principles is crucial in today's digital landscape.
-  </p>
-  <p>
-    📚 I am a passionate learner who is always seeking new challenges and opportunities to enhance my skills. I enjoy exploring new technologies, frameworks, and coding best practices. Continuous learning is at the core of my personal and professional growth.
-  </p>
+<h1>About Me</h1>
+<p>
+  👋 Hello, I'm <strong>SYED SHAH HUSSAIN BADSHAH</strong>!
+</p>
+<p>
+  🎓 Currently a Final year student pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <strong>COMSATS University Islamabad, Abbottabad Campus</strong>. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
+</p>
+<p>
+  🚀 I consider myself a beginner-level MERN stack developer, with hands-on experience in building web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy working with these technologies and continuously expanding my knowledge in web development.
+</p>
+<p>
+  🤖 Additionally, I have a strong interest in AI/ML. I am fascinated by the potential of artificial intelligence and machine learning to solve real-world problems. I have explored topics such as supervised learning, natural language processing, and deep learning. I am actively learning and experimenting with models and tools in this space.
+</p>
+<p>
+  📚 I am a passionate learner who is always seeking new challenges and opportunities to enhance my skills. I enjoy exploring new technologies, frameworks, and coding best practices. Continuous learning is at the core of my personal and professional growth.
+</p>
+
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
