@@ -1,7 +1,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShahxHussain&label=Visitors%2FViews&countColor=%23263759)
 
 <p align ="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2599&pause=503&color=FF3A12&background=4EFF4100&width=435&lines=Its+Me -+SYED+SHAH+HUSSAIN;Future+Software+Engineer;Junior+MERN+Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2599&pause=503&color=FF3A12&background=4EFF4100&width=435&lines=Its+Me -+SYED+SHAH+HUSSAIN;Future+Software+Engineer;Junior+MERN+Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG"/>
   </p>
   
   <h1>About Me</h1>
