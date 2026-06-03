@@ -9,16 +9,13 @@
   👋 Hello, I'm <strong>SYED SHAH HUSSAIN BADSHAH</strong>!
 </p>
 <p>
-  🎓 Currently a Final year student pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <strong>COMSATS University Islamabad, Abbottabad Campus</strong>. As an aspiring software engineer, I am passionate about exploring various technologies and developing innovative solutions.
-</p>
-<p>
-  🚀 I consider myself a beginner-level MERN stack developer, with hands-on experience in building web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy working with these technologies and continuously expanding my knowledge in web development.
-</p>
-<p>
-  🤖 Additionally, I have a strong interest in AI/ML. I am fascinated by the potential of artificial intelligence and machine learning to solve real-world problems. I have explored topics such as supervised learning, natural language processing, and deep learning. I am actively learning and experimenting with models and tools in this space.
-</p>
-<p>
-  📚 I am a passionate learner who is always seeking new challenges and opportunities to enhance my skills. I enjoy exploring new technologies, frameworks, and coding best practices. Continuous learning is at the core of my personal and professional growth.
+A fresh Software Engineering graduate with strong hands-on experience in Python, Exploratory Data Analysis, LangChain, LLM APIs, RAG pipelines, Vector Databases, Computer Vision(basics), Generative AI, and MERN Stack Development, gained through various AI-driven projects and international hackathons. 
+
+Over the past few years, I have actively participated in global competitions, winning five international hackathons and earning multiple recognitions for innovation and problem-solving. One of my proudest achievements was at the NASA Space Apps Challenge 2024, where my team’s project ranked among the Top 50 globally out of 10,000+ teams, earning the prestigious 2024 NASA Honorable Mention. 
+
+Alongside my technical journey, I served as the Technical Team Lead at GDGoC (Google Developer Group on Campus), where I initiated and moderated tech initiatives, mentored over 100+ students and helping them gain real-world technical exposure. 
+
+I’m passionate about building impactful and intelligent systems that merge AI & Data technologies with full-stack web solutions.
 </p>
 
 
